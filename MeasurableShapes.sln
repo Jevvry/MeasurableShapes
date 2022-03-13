@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasurableShapes", "MeasurableShapes\MeasurableShapes.csproj", "{B4613C19-4BDE-4174-9E61-A8B896DA71A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasurableShapes.Tests", "MeasurableShapes.Tests\MeasurableShapes.Tests.csproj", "{BB57E337-3CD9-4F41-8EF9-067F7E101617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4613C19-4BDE-4174-9E61-A8B896DA71A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4613C19-4BDE-4174-9E61-A8B896DA71A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4613C19-4BDE-4174-9E61-A8B896DA71A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4613C19-4BDE-4174-9E61-A8B896DA71A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB57E337-3CD9-4F41-8EF9-067F7E101617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB57E337-3CD9-4F41-8EF9-067F7E101617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB57E337-3CD9-4F41-8EF9-067F7E101617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB57E337-3CD9-4F41-8EF9-067F7E101617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
